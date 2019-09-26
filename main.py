@@ -2,6 +2,7 @@ import add
 import multiplication
 import div
 import sys
+import sub
 
 input_1 = int(sys.argv[1])
 input_2 = int(sys.argv[2])
