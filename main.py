@@ -13,7 +13,7 @@ process = int(sys.argv[3])
 if process == 1: 
     add.add(input_1, input_2)
 elif process == 2:
-
+    sub.sub(input_1, input_2)
 elif process == 3:
     multiplication.mul(input_1, input_2)
 elif process == 4:
